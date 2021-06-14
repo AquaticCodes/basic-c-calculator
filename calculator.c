@@ -4,7 +4,7 @@ int main() {
 
 printf("type a for addition, s for subtraction, m for multiply, d for divide \n \n input:");
 
-int input;
+char input;
 
 scanf("%c", &input);
 
